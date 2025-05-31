@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HGL30.</h1>
+<h1 align="center">Hi 👋, I'm L3op4rd.</h1>
 <h3 align="center">I'm student learning Cyber Security at VKU.</h3>
 
 - 🌱 I’m currently learning **Cyber Sercurity**
