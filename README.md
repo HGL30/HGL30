@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HGL30](https://github.com/HGL30)
 
-- 📝 I will upload writeup about [CTF (Capture the Flag)](CTF (Capture the Flag))
+- 📝 I will upload writeup about **CTF (Capture the Flag).**
 
 - 💬 Contact me about **Challenge, Job, ...**
 
